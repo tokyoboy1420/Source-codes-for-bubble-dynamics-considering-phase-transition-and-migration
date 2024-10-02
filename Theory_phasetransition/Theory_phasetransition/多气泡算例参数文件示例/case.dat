@@ -1,0 +1,13 @@
+4e-3                    //Timeduration
+7.5e-5          //dt
+8.5e-2, 0.000000, -0.2     //pressure_loc
+0                  //boundaryswitch
+0.000000, 0.000000, -0.0     //boundaryposition
+0.000000, 0.000000, 1.000000  //boundaryvector
+-0.650000          //boundarycoeffecient
+1     //migrationswitch
+4     //bubblenumber
+0.0,    0, 0, -0.1,  0.0024, 10, 5e6,300, 0.99, 0.041  //t0_x_y_z_R0_dR0_P0_T0_Mv/M_alpham
+0.0,    0, 0, -0.16, 0.00247, 10, 5e6,300, 0.99, 0.041 //
+0.0,    0.06, 0, -0.1,  0.0024, 10, 5e6,300,0.99, 0.041  //
+0.0,    0.06, 0, -0.16, 0.00247, 10, 5e6,300,0.99, 0.041  //

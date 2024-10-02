@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\ueb\code\unified_c++\unified-phase\theory_phasetransition\theory_phasetransition\protreat.h(27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Theory_phasetransition.vcxproj -> D:\UEB\code\Unified_C++\unified-phase\Theory_phasetransition\Theory_phasetransition\Debug\Theory_phasetransition.exe
